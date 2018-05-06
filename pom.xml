@@ -6,9 +6,6 @@
   <artifactId>1337</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-<modules>
-        <module>1337</module>   
-</modules>
   <name>maven_project</name>
   <url>http://maven.apache.org</url>
 
