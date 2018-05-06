@@ -5,9 +5,6 @@
   <groupId>acfl</groupId>
   <artifactId>1337</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <modules>
-        <module>1337</module>
-    </modules>
   <packaging>pom</packaging>
   <name>maven_project</name>
   <url>http://maven.apache.org</url>
