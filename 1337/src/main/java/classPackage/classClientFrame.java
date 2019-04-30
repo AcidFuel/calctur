@@ -18,7 +18,7 @@ protected JButton[] btn = new JButton [3];
 
 protected JLabel[] lbl = new JLabel[5];
 	
-protected JTextField[] txtfield = new JTextField[3];
+public JTextField[] txtfield = new JTextField[3];
 	
 protected JCheckBox[] chckbx = new JCheckBox[2];
 
